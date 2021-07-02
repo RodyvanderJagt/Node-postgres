@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RodyvanderJagt/Node-postgres#readme",
   "devDependencies": {
     "express": "^4.17.1",
+    "knex": "^0.95.6",
     "pg": "^8.6.0"
   }
 }
