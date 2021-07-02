@@ -1,2 +1,2 @@
 # Node-postgres
-My first node-postgres project
+RESTful API with Node.js, Express, and PostgreSQL
